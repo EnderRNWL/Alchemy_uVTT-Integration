@@ -5,4 +5,4 @@ Having to resize maps to be a specific resolution just so the grid can *KINDA* a
 
 That's why we wanted to integrate the uVTT map format into Alchemy, as it would allow for popular map creation software like Dungeon Alchemist and Dungeondraft to easily be compatible with Alchemy without having to deal with image resizing.
 
-### WE ARE NOT ASSOCIATED WITH ALCHEMY RPG IN ANY WAY, SHAPE, OR FORM; WE HAVE PERMISSION FROM THE ALCHEMY RPG TEAM TO WORK ON uATT. PLEASE DON'T SUE US.
+### WE ARE NOT ASSOCIATED WITH ALCHEMY RPG IN ANY WAY, SHAPE, OR FORM; WE ARE GETTING PERMISSION FROM THE ALCHEMY RPG TEAM TO WORK ON uATT. PLEASE DON'T SUE US.
